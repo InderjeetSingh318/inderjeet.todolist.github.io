@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inderjeet.todolist.github.io/static/css/main.d305f1b5.css",
+    "main.js": "/inderjeet.todolist.github.io/static/js/main.453e503d.js",
+    "static/js/787.822e26c4.chunk.js": "/inderjeet.todolist.github.io/static/js/787.822e26c4.chunk.js",
+    "index.html": "/inderjeet.todolist.github.io/index.html",
+    "main.d305f1b5.css.map": "/inderjeet.todolist.github.io/static/css/main.d305f1b5.css.map",
+    "main.453e503d.js.map": "/inderjeet.todolist.github.io/static/js/main.453e503d.js.map",
+    "787.822e26c4.chunk.js.map": "/inderjeet.todolist.github.io/static/js/787.822e26c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d305f1b5.css",
+    "static/js/main.453e503d.js"
+  ]
+}
